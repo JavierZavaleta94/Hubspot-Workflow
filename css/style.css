@@ -1,11 +1,14 @@
 body {
-    margin: 0;
-}
+    margin: 5% auto;
+    width: 100%;
+    max-width: 805px;
+    background-color: #f4f8fa;
 
-.hbspt-form {
+    h1 {
+        margin: 0;
+    }
+
+    .hbspt-form {
     justify-items: center;
 }
-
-.hs-utm_campaign {
-    display: none;
 }
